@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
-  <img class="w3-image" src="/w3images/hamburger.jpg" alt="Hamburger Catering" width="1600" height="800">
+  <img class="w3-image"11892219_832729543509475_2681984150213617959_n.jpg>
   <div class="w3-display-bottomleft w3-padding-large w3-opacity">
     <h1 class="w3-xxlarge"></h1>
   </div>
@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
   <div class="w3-row w3-padding-64" id="menu">
     <div class="w3-col l6 w3-padding-large">
       <h1 class="w3-center">Resume</h1><br>
-      <h4>t</h4>
+      <h4>Colin Creagan Resume.pdf</h4>
       <p class="w3-text-grey"></p><br>
 
       <h4></h4>
@@ -87,10 +87,10 @@ h1, h2, h3, h4, h5, h6 {
     <p class="w3-text-blue-grey w3-large"><b>colin.creagan@twitter.com</b></p>
     <p></p>
     <form action="/action_page.php" target="_blank">
-      <p><input class="w3-input w3-padding-16" type="text" placeholder= required name="Name"></p>
-      <p><input class="w3-input w3-padding-16" type="number" placeholder=required name="People"></p>
-      <p><input class="w3-input w3-padding-16" type="datetime-local" placeholder=required name="date" value="2017-11-16T20:00"></p>
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Message \ Special requirements" required name="Message"></p>
+      <p><></p>
+      <p><></p>
+      <p><></p>
+      <p><></p>
       <p><button class="w3-button w3-light-grey w3-section" type="submit">SEND MESSAGE</button></p>
     </form>
   </div>
