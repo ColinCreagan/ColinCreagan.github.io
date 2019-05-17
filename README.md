@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
-  <img class="w3-image"11892219_832729543509475_2681984150213617959_n.jpg>
+  <title>"11892219_832729543509475_2681984150213617959_n.jpg (720x960)</title>
   <div class="w3-display-bottomleft w3-padding-large w3-opacity">
     <h1 class="w3-xxlarge"></h1>
   </div>
@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
   <!-- About Section -->
   <div class="w3-row w3-padding-64" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
-     <img src="/w3images/tablesetting2.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+     <>
     </div>
 
     <div class="w3-col m6 w3-padding-large">
@@ -54,10 +54,10 @@ h1, h2, h3, h4, h5, h6 {
   <hr>
 
   <!-- Menu Section -->
-  <div class="w3-row w3-padding-64" id="menu">
+  <div class="w3-row w3-padding-64" id=>
     <div class="w3-col l6 w3-padding-large">
       <h1 class="w3-center">Resume</h1><br>
-      <h4>Colin Creagan Resume.pdf</h4>
+      <span><a href="Colin Creagan Resume.pdf">colin creagan resume</a></span>
       <p class="w3-text-grey"></p><br>
 
       <h4></h4>
